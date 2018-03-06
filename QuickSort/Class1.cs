@@ -2,7 +2,11 @@
 
 namespace QuickSort
 {
-    public class Class1
+    public class QuickSort
     {
+        public static void QSorting(int[] array)
+        {
+
+        }
     }
 }
